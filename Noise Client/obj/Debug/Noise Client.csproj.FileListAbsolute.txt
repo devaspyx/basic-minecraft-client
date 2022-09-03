@@ -1,0 +1,20 @@
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\Noise Client.exe.config
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\Noise Client.exe
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\Noise Client.pdb
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\CmlLib.dll
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\SevenZip.dll
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\bin\Debug\SevenZip.xml
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.csproj.AssemblyReference.cache
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise_Client.NoiseStarter.resources
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise_Client.Properties.Resources.resources
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.csproj.GenerateResource.cache
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.csproj.CoreCompileInputs.cache
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.csproj.CopyComplete
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.exe
+C:\Users\ardag\OneDrive\Masaüstü\Noise Client\Noise Client\obj\Debug\Noise Client.pdb
